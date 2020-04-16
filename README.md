@@ -1,2 +1,2 @@
 # blackteahamburger.github.io
-This is my website.
+这是我的个人网站。
