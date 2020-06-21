@@ -1,6 +1,8 @@
-我目前在Github上只有两个项目：
+I am an [ArchWiki Maintainer](https://wiki.archlinux.org/index.php/ArchWiki:Maintenance_Team).
 
-- [Arch Linux安装脚本](https://github.com/blackteahamburger/My-archlinux-installation-script)
-- [Arch Linux配置教程](https://github.com/blackteahamburger/My-archlinux-configuration)
+I currently have only two projects on GitHub:
 
-我以后将添加更多项目，敬请期待。
+- [Arch Linux installation script](https://github.com/blackteahamburger/My-archlinux-installation-script)
+- [Arch Linux configuration tutorial](https://github.com/blackteahamburger/My-archlinux-configuration)
+
+I will add more items in the future, so stay tuned.
